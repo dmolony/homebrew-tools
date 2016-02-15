@@ -1,4 +1,4 @@
-class dm3270 < Formula
+class Dm3270 < Formula
   desc "tn3270 Terminal Emulator"
   homepage "https://github.com/dmolony/dm3270
   url "https://github.com/dmolony/dm3270/releases/download/v0.5-beta-36/dm3270.jar"
