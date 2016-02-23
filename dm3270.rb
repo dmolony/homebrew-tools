@@ -3,7 +3,7 @@ class Dm3270 < Formula
   homepage "https://github.com/dmolony/dm3270"
   url "https://github.com/dmolony/dm3270/releases/download/v0.5-beta-37/dm3270.jar"
   version "0.5-beta-37"
-  sha256 "f5991e7ad701e6a3df19108303defe3948ada54bf5cc95f5ef8c1303717b8039"
+  sha256 "aa170e3f2222f16d8c0e7984f5868b1dcd4315e29d2c762e6fb344058b83b5dd"
 
   depends_on :java => "1.8+"
 
