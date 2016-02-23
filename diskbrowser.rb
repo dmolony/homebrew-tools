@@ -3,7 +3,7 @@ class Diskbrowser < Formula
   homepage "https://github.com/dmolony/DiskBrowser"
   url "https://github.com/dmolony/DiskBrowser/releases/download/v1.0.4/DiskBrowser.jar"
   version "1.0.4"
-  sha256 "7b02245f603759f0b405eb83789ad9441601a844704cf0e3321734033ab530f8"
+  sha256 "aa170e3f2222f16d8c0e7984f5868b1dcd4315e29d2c762e6fb344058b83b5dd"
 
   depends_on :java => "1.6+"
 
